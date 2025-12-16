@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "SonarLint-Visual Studio Code 1",
+        "projectKey": "ipiteuber_control"
+    }
+}
